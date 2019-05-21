@@ -1,0 +1,19 @@
+This is the credits page for resources used in the making of this game, such as art and music.
+
+TILES AND SPRITES
+
+"Topdown Shooter pack" by kenney
+	- https://www.kenney.nl/
+
+"Zombie UI Pack" by Osmic
+	- https://opengameart.org/content/zombie-ui-pack
+
+"Topdown Vehicle Sprite Pack" by UnLucky Studio (sujit1717)
+	- http://unluckystudio.com/
+	- https://opengameart.org/content/free-top-down-car-sprites-by-	  unlucky-studio
+
+MUSIC
+
+"Station" by Alexandr Zhelanov
+	- https://soundcloud.com/alexandr-zhelanov
+
